@@ -1,0 +1,4 @@
+#ifndef SINE_STRING_BUILDER_H
+#define SINE_STRING_BUILDER_H
+
+#endif
